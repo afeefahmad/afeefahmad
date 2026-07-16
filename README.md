@@ -7,9 +7,6 @@
 Building AI-powered applications, intelligent automation, RAG systems, and scalable web solutions.
 
 <p>
-  <a href="https://github.com/afeefahmad">
-    <img src="https://img.shields.io/github/followers/afeefahmad?label=Followers&style=for-the-badge" />
-  </a>
   <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
 </p>
 
@@ -21,20 +18,18 @@ Building AI-powered applications, intelligent automation, RAG systems, and scala
 
 I'm **Afeef Ahmad**, an AI Engineer and Full Stack Developer passionate about building intelligent software that solves real business problems.
 
-My work focuses on:
+I specialize in designing and developing AI-powered applications, multi-agent systems, automation workflows, and scalable full stack web applications.
 
-- 🤖 AI Agents
+### What I Do
+
+- 🤖 AI Agents & Multi-Agent Systems
 - 🧠 Large Language Model (LLM) Applications
 - 🔍 Retrieval-Augmented Generation (RAG)
 - ⚡ Workflow Automation
 - 🌐 Full Stack Web Development
 - 🐍 Python Backend Development
-- ☁️ Cloud Ready Applications
-- 📊 REST APIs & Database Design
-
-I enjoy building products that combine AI with modern web technologies to create scalable and efficient solutions.
-
----
+- 🔗 REST APIs & Integrations
+- 🗄️ Database Design & Optimization
 
 # 🚀 Tech Stack
 
@@ -70,150 +65,75 @@ I enjoy building products that combine AI with modern web technologies to create
 - Groq
 - Ollama
 - Hugging Face
-- Vector Databases
 - pgvector
+- Vector Databases
 - n8n
 - Prompt Engineering
 
----
-
 # 💼 Featured Work
 
-## 🤖 LinkedIn AI Lead Generation System
+## 🤖 LinkedIn AI Lead Generation Platform
 
-An intelligent multi-agent platform that automates LinkedIn lead generation and qualification.
+An AI-powered multi-agent platform that automates LinkedIn lead generation, enrichment, and lead scoring.
 
-**Features**
-
-- AI-powered lead scoring
-- Intelligent enrichment
-- Company extraction
-- Multi-agent workflow
-- PostgreSQL storage
-- Automated follow-up pipeline
-
-**Tech**
-
-Python • LangGraph • PostgreSQL • FastAPI • OpenAI • Groq
+**Tech Stack:** Python • LangGraph • FastAPI • PostgreSQL • OpenAI • Groq
 
 ---
 
 ## 🧠 AI RAG Chatbot
 
-A Retrieval-Augmented Generation chatbot capable of answering questions from custom documents.
+A Retrieval-Augmented Generation chatbot with semantic search and context-aware responses.
 
-**Features**
-
-- PDF ingestion
-- Semantic search
-- Vector embeddings
-- Context-aware responses
-- Conversation memory
-
-**Tech**
-
-Python • LangChain • pgvector • PostgreSQL • FastAPI
+**Tech Stack:** Python • LangChain • FastAPI • PostgreSQL • pgvector
 
 ---
 
-## ⚙️ AI Workflow Automation
+## ⚙️ AI Automation Workflows
 
-Business workflow automation using AI and n8n.
+Automation solutions integrating AI with business processes using APIs and n8n.
 
-**Features**
-
-- CRM Automation
-- Email Automation
-- Lead Processing
-- AI Decision Making
-- API Integrations
+**Tech Stack:** Python • n8n • REST APIs
 
 ---
 
-## 🏢 Construction Company Website
+## 🏗️ UK Construction Company Website
 
-A modern, responsive website for a UK-based construction business.
+A premium, responsive and SEO-optimized construction company website built with modern technologies.
 
-**Features**
-
-- Responsive design
-- Service pages
-- Portfolio
-- SEO optimization
-- Contact forms
-- Quote request system
-
-**Tech**
-
-Next.js • React • TypeScript • Tailwind CSS
+**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS
 
 ---
 
 ## 🛒 Sanitary Store ERP
 
-A complete ERP solution for inventory, billing, customer management, and reporting.
+ERP system featuring inventory management, billing, customer ledger, reporting, and thermal printing.
 
-**Features**
+**Tech Stack:** React • Node.js • PostgreSQL
 
-- Inventory Management
-- Billing System
-- Customer Ledger (Khata)
-- Reports
-- Thermal Printing
-- Dashboard
-
-**Tech**
-
-React • Node.js • PostgreSQL
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=afeefahmad&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afeefahmad&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=afeefahmad&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-# 🎯 Currently Working On
+# 🎯 Current Focus
 
 - AI Agents
-- Multi-Agent Systems
 - RAG Applications
 - Automation Platforms
 - Full Stack SaaS Products
-- AI Chatbots
-
----
 
 # 🌱 Currently Learning
 
-- Agentic AI
-- MCP
+- Advanced Agentic AI
+- Model Context Protocol (MCP)
 - Kubernetes
 - AWS
-- Advanced LLM Architectures
-- AI Infrastructure
-
----
 
 # 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 **Email**  
+afeefzafar2@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
+💼 **LinkedIn**  
+https://www.linkedin.com/in/afeef-ahmad-9a5235321/
 
-🌐 Portfolio: https://your-portfolio.com
+🌐 **Portfolio**  
+https://afeef-portfolio-gold.vercel.app/
 
 ---
 
@@ -221,6 +141,6 @@ React • Node.js • PostgreSQL
 
 ### Thanks for visiting my profile!
 
-*"Building intelligent software that makes a real impact."*
+Building intelligent software with AI, automation, and modern web technologies.
 
 </div>
