@@ -113,6 +113,14 @@ I specialize in designing and developing AI-powered applications, multi-agent sy
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logoColor=white)
 ![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
+
+## 🌐 Live Projects
+
+| 🚀 Project | 🔗 Website | 💼 Category | 📝 Description |
+|---|---|---|---|
+| **[FutCoinSpot](https://www.futcoinspot.com/)** | [Live Demo](https://www.futcoinspot.com/) | FC Coin Trading | Trading and order management platform with payments, affiliate functionality, automated workflows, and fulfillment. |
+| **[LSP Leads](https://lspleads.vercel.app/)** | [Live Demo](https://lspleads.vercel.app/) | Real Estate / Lead Intelligence | Subscription-based platform providing lead intelligence and property-related data across multiple U.S. states. |
+
 # 💼 Featured Work
 
 ## 🤖 LinkedIn AI Lead Generation Platform
