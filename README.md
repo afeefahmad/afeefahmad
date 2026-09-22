@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-16A34A?style=for-the-badge"/>
 
 </div>
----
+
 
 ## 👨‍💻 About Me
 
