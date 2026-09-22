@@ -2,13 +2,17 @@
 
 # Hi, I'm Afeef Ahmad 👋
 
-### AI Engineer • Full Stack Developer • Python Developer
+### 🤖 AI Engineer | AI Automation | LLM & RAG | Full Stack
 
-Building AI-powered applications, intelligent automation, RAG systems, and scalable web solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;AI+Automation+Developer+%E2%9A%A1;LLM+%26+RAG+Engineer+%F0%9F%A7%A0;Python+Developer+%F0%9F%90%8D;Full+Stack+Developer+%F0%9F%8C%90;Building+Intelligent+AI+Solutions+%F0%9F%9A%80" alt="Typing Animation" />
 
-<p>
-  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
-</p>
+<br>
+
+Building AI-powered applications, intelligent automation, RAG systems, AI agents, and scalable web solutions.
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
 
 </div>
 
