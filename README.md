@@ -175,16 +175,23 @@ ERP system featuring inventory management, billing, customer ledger, reporting, 
 - Kubernetes
 - AWS
 
-# 📫 Connect With Me
+## 🤝 Let's Connect
 
-📧 **Email**  
-afeefzafar2@gmail.com
+<div align="center">
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/afeef-ahmad-9a5235321/
+<a href="https://www.linkedin.com/in/afeef-ahmad-9a5235321/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-🌐 **Portfolio**  
-https://afeef-portfolio-gold.vercel.app/
+<a href="mailto:afeefzafar2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://afeef-portfolio-gold.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
 
 ---
 
