@@ -1,21 +1,32 @@
 <div align="center">
 
-# Hi, I'm Afeef Ahmad 👋
+<!-- 🌌 PREMIUM AI NAME -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,20:111827,45:312E81,70:4F46E5,100:06B6D4&height=160&section=header&text=AFEEF%20AHMAD&fontSize=58&fontColor=FFFFFF&fontAlignY=52&animation=twinkling" width="100%"/>
+
+<br>
 
 ### 🤖 AI Engineer | AI Automation | LLM & RAG | Full Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;AI+Automation+Developer+%E2%9A%A1;LLM+%26+RAG+Engineer+%F0%9F%A7%A0;Python+Developer+%F0%9F%90%8D;Full+Stack+Developer+%F0%9F%8C%90;Building+Intelligent+AI+Solutions+%F0%9F%9A%80" alt="Typing Animation" />
+<!-- ✨ ANIMATED ROLES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%F0%9F%A4%96;AI+Automation+Developer+%E2%9A%A1;LLM+%26+RAG+Engineer+%F0%9F%A7%A0;AI+Agent+Developer+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;Full+Stack+Developer+%F0%9F%8C%90" alt="Animated Roles"/>
 
 <br>
 
-Building AI-powered applications, intelligent automation, RAG systems, AI agents, and scalable web solutions.
+<!-- ✨ ANIMATED DESCRIPTION -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI-powered+applications+%F0%9F%A4%96;Automating+complex+business+workflows+%E2%9A%A1;Developing+LLM+%26+RAG+systems+%F0%9F%A7%A0;Engineering+intelligent+AI+agents+%F0%9F%9A%80;Creating+scalable+full-stack+solutions+%F0%9F%8C%90" alt="Animated Description"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Automation-0891B2?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20%26%20RAG-2563EB?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-16A34A?style=for-the-badge"/>
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
